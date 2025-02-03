@@ -9,3 +9,5 @@
 > and products 💪
 
 1. https://github.com/TaskingAI/TaskingAI/tree/master/backend
+2. https://github.com/Skyvern-AI/skyvern/tree/main/skyvern/forge/
+3. https://github.com/smallcloudai/refact/blob/main/refact_webgui/webgui/webgui.py
